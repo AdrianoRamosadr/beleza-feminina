@@ -15,6 +15,9 @@
 
 body{
     background-color: rgba(153, 50, 204, 0.589);
+    background-image: url(imagens/rosa-como-plantar-e-cuidar-3.jpg);
+    background-size: cover;
+    
 }
 
 header{
